@@ -78,7 +78,7 @@ main() {
 	readonly show_session="#[fg=$thm_green]#[bg=$thm_bg]$status_separator#{?client_prefix,#[bg=$thm_green],#[bg=$thm_green]}#[fg=$thm_bg]$session_icon#[fg=$thm_green]#[bg=$thm_bg]$status_separator#[fg=$thm_fg,bg=$thm_bg] #S "
 
 	local show_user
-	readonly show_user="#[fg=$thm_orange,bg=$thm_bg]$status_separator#[fg=$thm_bg,bg=$thm_orange]$user_icon#[fg=$thm_orange,bg=$thm_bg]$status_separator#[fg=$thm_fg,bg=$thm_bg] #(whoami) "
+	readonly show_user="#[fg=$thm_pink,bg=$thm_bg]$status_separator#[fg=$thm_bg,bg=$thm_pink]$user_icon#[fg=$thm_pink,bg=$thm_bg]$status_separator#[fg=$thm_fg,bg=$thm_bg] #(whoami) "
 
 	local show_host
 	readonly show_host="#[fg=$thm_cyan,bg=$thm_bg]$status_separator#[fg=$thm_bg,bg=$thm_cyan]$host_icon#[fg=$thm_cyan,bg=$thm_bg]$status_separator#[fg=$thm_fg,bg=$thm_bg] #H "
