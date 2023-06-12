@@ -1,0 +1,14 @@
+# vim: ft=sh
+
+thm_bg="#120d17"
+thm_fg="#edecee"
+thm_cyan="#6ca2c5"
+thm_black="#1b1b1b"
+thm_gray="#3d3d3d"
+thm_magenta="#b4beee"
+thm_pink="#f5c2d7"
+thm_red="#f38ba8"
+thm_green="#94e2d5"
+thm_yellow="#f9e2af"
+thm_blue="#74c7ec"
+thm_orange="#f7baa2"
